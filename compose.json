@@ -1,0 +1,20 @@
+{
+    "name": "wildanegi011/laravel-traits",
+    "description": "Laravel Traits Package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Wildan Egi Ardiawan",
+            "email": "wildanardiawan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "wildanegi011\\Laravel\\Traits\\": "src/"
+        }
+    },
+    "require": {
+        "ramsey/uuid": "^4.1"
+    }
+}
